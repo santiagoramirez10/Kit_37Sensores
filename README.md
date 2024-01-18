@@ -2,10 +2,10 @@
 
 ---
 
-<h2>Listado de códigos y montajes</h2>
+<h2>Proyectos en este repositorio: </h2>
 
-<ol>
-    <li><a href="https://github.com/santiagoramirez10/Kit_37Sensores/tree/main/1_Joystick">Joystick.</a></li>
-    <li><a href="https://github.com/santiagoramirez10/Kit_37Sensores/tree/main/7_Fuego">Fuego.</a></li>
-    <li><a href="https://github.com/santiagoramirez10/Kit_37Sensores/tree/main/13_LED_RGB">LED RGB.</a></li>
-</ol>
+<ul>
+    <li><a href="https://github.com/santiagoramirez10/Kit_37Sensores/tree/main/1_Joystick">1. Joystick.</a></li>
+    <li><a href="https://github.com/santiagoramirez10/Kit_37Sensores/tree/main/7_Fuego">7. Fuego.</a></li>
+    <li><a href="https://github.com/santiagoramirez10/Kit_37Sensores/tree/main/13_LED_RGB">13. LED RGB.</a></li>
+</ul>
